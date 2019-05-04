@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "CLI hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apizarras/hangmanConstructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apizarras/hangmanConstructor/issues"
+  },
+  "homepage": "https://github.com/apizarras/hangmanConstructor#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
